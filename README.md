@@ -1,1 +1,5 @@
 # Tesis-MCD-Belvedere-Estellano-Tedesco
+
+# Aplicación de técnicas de Machine Learning para la predicción del gasto turístico en Uruguay
+
+Este proyecto desarrolla un modelo predictivo para estimar el gasto diario por persona de los turistas que visitan Uruguay, a partir de información provista por la Encuesta de Turismo Receptivo del Ministerio de Turismo. El trabajo incluye un proceso completo de análisis de datos: limpieza y transformación del dataset, creación de variables derivadas, análisis exploratorio, identificación de outliers y estacionalidades, y evaluación de patrones de comportamiento. Se entrenan y comparan distintos modelos de Machine Learning (Regresión Lineal, Random Forest y CatBoost) aplicando validación cruzada e ingeniería de características. Además, se analizan la importancia de las variables, los residuos del modelo y el desempeño por subgrupos relevantes. El objetivo final es construir una herramienta robusta que permita comprender los determinantes del gasto turístico y generar estimaciones confiables aplicables a la gestión y planificación del sector.
